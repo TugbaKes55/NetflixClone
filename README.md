@@ -13,4 +13,5 @@ This project involves a simple clone of Netflix website. It is made using HTML a
 
 # Preview
 
+![Netflix-ezgif com-video-to-gif-converter](https://github.com/TugbaKes55/NetflixClone/assets/170290830/472a00e0-03a0-43e0-a4d5-97f9276da1c2)
 
