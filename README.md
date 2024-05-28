@@ -5,7 +5,7 @@ This project involves a simple clone of Netflix website. It is made using HTML a
 # Features
 
 - Responsive Layout: A responsive structure was established using Flexbox techniques. In this way, a compatible appearance is provided even on different screen sizes.
-- Animation: Video transitions are provided a modern and eye-catching structure.
+- Animations: Video transitions are provided a modern and eye-catching structure.
  
 # Used Technologies
 - HTML5
