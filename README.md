@@ -10,3 +10,7 @@ This project involves a simple clone of Netflix website. It is made using HTML a
 # Used Technologies
 - HTML5
 - CSS3
+
+# Preview
+
+
